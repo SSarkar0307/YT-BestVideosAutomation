@@ -1,0 +1,428 @@
+
+[2025-05-11 18:21:35.478858] Response:
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 88,
+      "rationale": "Relevant to cooking (chicken legs, tomato sauce). Very high views, decent like ratio. The title is descriptive."
+    },
+    {
+      "index": 1,
+      "score": 75,
+      "rationale": "Relevant to cooking (frying). Good views, though a slightly lower like ratio. The title is descriptive."
+    },
+    {
+      "index": 2,
+      "score": 75,
+      "rationale": "Relevant to cooking (frying). Good views, though a slightly lower like ratio. The title is descriptive."
+    }
+  ]
+}
+```
+==================================================
+
+[2025-05-11 18:21:35.479680] ERROR: Direct JSON parse failed: Expecting value: line 1 column 1 (char 0):
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 88,
+      "rationale": "Relevant to cooking (chicken legs, tomato sauce). Very high views, decent like ratio. The title is descriptive."
+    },
+    {
+      "index": 1,
+      "score": 75,
+      "rationale": "Relevant to cooking (frying). Good views, though a slightly lower like ratio. The title is descriptive."
+    },
+    {
+      "index": 2,
+      "score": 75,
+      "rationale": "Relevant to cooking (frying). Good views, though a slightly lower like ratio. The title is descriptive."
+    }
+  ]
+}
+```
+==================================================
+
+[2025-05-11 18:31:45.864320] Response:
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 78,
+      "rationale": "Title is somewhat relevant to BGMI gameplay. The like ratio and views are moderate, indicating decent engagement."
+    },
+    {
+      "index": 1,
+      "score": 75,
+      "rationale": "Title is somewhat relevant to BGMI gameplay. The like ratio and views are moderate, indicating decent engagement."
+    },
+    {
+      "index": 2,
+      "score": 45,
+      "rationale": "Title focuses on the update, not gameplay. The features aspect less relevant, although there's a decent like ratio and views."
+    },
+    {
+      "index": 3,
+      "score": 30,
+      "rationale": "Focuses on device review rather than BGMI gameplay. The like ratio and views are lower, suggesting weaker appeal for this search query."
+    },
+    {
+      "index": 4,
+      "score": 35,
+      "rationale": "Title focuses on the update, not gameplay. The features aspect less relevant, although there are moderate views but a lower like ratio."
+    },
+    {
+      "index": 5,
+      "score": 70,
+      "rationale": "More relevant with mention of kills and gameplay but has lower views. The like ratio is also relatively lower."
+    }
+  ]
+}
+```
+==================================================
+
+[2025-05-11 18:31:45.867997] ERROR: Direct JSON parse failed: Expecting value: line 1 column 1 (char 0):
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 78,
+      "rationale": "Title is somewhat relevant to BGMI gameplay. The like ratio and views are moderate, indicating decent engagement."
+    },
+    {
+      "index": 1,
+      "score": 75,
+      "rationale": "Title is somewhat relevant to BGMI gameplay. The like ratio and views are moderate, indicating decent engagement."
+    },
+    {
+      "index": 2,
+      "score": 45,
+      "rationale": "Title focuses on the update, not gameplay. The features aspect less relevant, although there's a decent like ratio and views."
+    },
+    {
+      "index": 3,
+      "score": 30,
+      "rationale": "Focuses on device review rather than BGMI gameplay. The like ratio and views are lower, suggesting weaker appeal for this search query."
+    },
+    {
+      "index": 4,
+      "score": 35,
+      "rationale": "Title focuses on the update, not gameplay. The features aspect less relevant, although there are moderate views but a lower like ratio."
+    },
+    {
+      "index": 5,
+      "score": 70,
+      "rationale": "More relevant with mention of kills and gameplay but has lower views. The like ratio is also relatively lower."
+    }
+  ]
+}
+```
+==================================================
+
+[2025-05-11 18:34:30.519065] Response:
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 85,
+      "rationale": "Relevant to cooking query. High views and decent like ratio."
+    },
+    {
+      "index": 1,
+      "score": 85,
+      "rationale": "Relevant to cooking query. High views and decent like ratio."
+    },
+    {
+      "index": 2,
+      "score": 60,
+      "rationale": "Somewhat relevant due to the cooking challenge aspect, but the low like ratio hurts the score."
+    },
+    {
+      "index": 3,
+      "score": 55,
+      "rationale": "Similar to the previous video, cooking challenge is relevant but the low engagement decreases score."
+    },
+    {
+      "index": 4,
+      "score": 58,
+      "rationale": "Cooking challenge is relevant, engagement is slightly better than previous challenges."
+    },
+    {
+      "index": 5,
+      "score": 50,
+      "rationale": "The lowest views and low engagement, but title implies cooking recipes."
+    },
+    {
+      "index": 6,
+      "score": 70,
+      "rationale": "Recipe specific title, decent like ratio and acceptable views, indicating good relevance."
+    },
+    {
+      "index": 7,
+      "score": 45,
+      "rationale": "Context needed to find relevance.  Low views and engagement impact the score."
+    },
+    {
+      "index": 8,
+      "score": 78,
+      "rationale": "Clearly related to diet and cooking. Good engagement despite lower view count."
+    }
+  ]
+}
+```
+==================================================
+
+[2025-05-11 18:34:30.519065] ERROR: Direct JSON parse failed: Expecting value: line 1 column 1 (char 0):
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 85,
+      "rationale": "Relevant to cooking query. High views and decent like ratio."
+    },
+    {
+      "index": 1,
+      "score": 85,
+      "rationale": "Relevant to cooking query. High views and decent like ratio."
+    },
+    {
+      "index": 2,
+      "score": 60,
+      "rationale": "Somewhat relevant due to the cooking challenge aspect, but the low like ratio hurts the score."
+    },
+    {
+      "index": 3,
+      "score": 55,
+      "rationale": "Similar to the previous video, cooking challenge is relevant but the low engagement decreases score."
+    },
+    {
+      "index": 4,
+      "score": 58,
+      "rationale": "Cooking challenge is relevant, engagement is slightly better than previous challenges."
+    },
+    {
+      "index": 5,
+      "score": 50,
+      "rationale": "The lowest views and low engagement, but title implies cooking recipes."
+    },
+    {
+      "index": 6,
+      "score": 70,
+      "rationale": "Recipe specific title, decent like ratio and acceptable views, indicating good relevance."
+    },
+    {
+      "index": 7,
+      "score": 45,
+      "rationale": "Context needed to find relevance.  Low views and engagement impact the score."
+    },
+    {
+      "index": 8,
+      "score": 78,
+      "rationale": "Clearly related to diet and cooking. Good engagement despite lower view count."
+    }
+  ]
+}
+```
+==================================================
+
+[2025-05-11 18:41:48.897148] Response:
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 96,
+      "rationale": "Directly addresses beginners learning Python, has a very high like ratio and significant views indicating strong appeal and value."
+    },
+    {
+      "index": 1,
+      "score": 78,
+      "rationale": "While relevant to Python, it focuses on advanced topics. The like ratio is good and views are substantial, but less beginner-focused."
+    }
+  ]
+}
+```
+==================================================
+
+[2025-05-11 18:41:48.897148] ERROR: Direct JSON parse failed: Expecting value: line 1 column 1 (char 0):
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 96,
+      "rationale": "Directly addresses beginners learning Python, has a very high like ratio and significant views indicating strong appeal and value."
+    },
+    {
+      "index": 1,
+      "score": 78,
+      "rationale": "While relevant to Python, it focuses on advanced topics. The like ratio is good and views are substantial, but less beginner-focused."
+    }
+  ]
+}
+```
+==================================================
+
+[2025-05-11 18:54:05.465822] Response:
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 78,
+      "rationale": "Title is relevant but potentially sensationalist. Views are high but like ratio is low."
+    },
+    {
+      "index": 1,
+      "score": 65,
+      "rationale": "Relevant title focused on diplomatic relations. Moderate views and like ratio."
+    },
+    {
+      "index": 2,
+      "score": 65,
+      "rationale": "Duplicate of index 1."
+    },
+    {
+      "index": 3,
+      "score": 75,
+      "rationale": "Relevant and alarming title. Views are good, but like ratio is low."
+    },
+    {
+      "index": 4,
+      "score": 68,
+      "rationale": "Relevant title with a focus on warnings. Decent views, but low like ratio."
+    },
+    {
+      "index": 5,
+      "score": 63,
+      "rationale": "Relevant title, but generic. Moderate views and low like ratio."
+    },
+    {
+      "index": 6,
+      "score": 63,
+      "rationale": "Duplicate of index 5."
+    },
+    {
+      "index": 7,
+      "score": 67,
+      "rationale": "Relevant title focusing on a specific event. Moderate views, low like ratio."
+    },
+    {
+      "index": 8,
+      "score": 69,
+      "rationale": "Relevant title regarding missile firings. Moderate views, low like ratio."
+    },
+    {
+      "index": 9,
+      "score": 66,
+      "rationale": "Relevant title with an 'act of war' claim. Moderate views, low like ratio."
+    },
+    {
+      "index": 10,
+      "score": 82,
+      "rationale": "Relevant title comparing strengths. Good like ratio and views."
+    },
+    {
+      "index": 11,
+      "score": 64,
+      "rationale": "Relevant title focused on potential conflict escalation. Moderate views, low like ratio."
+    },
+    {
+      "index": 12,
+      "score": 88,
+      "rationale": "Relevant title in Tamil with high like ratio. Good views and likely targeted audience appeal."
+    },
+    {
+      "index": 13,
+      "score": 61,
+      "rationale": "Relevant title attributing blame. Moderate views and low like ratio."
+    },
+    {
+      "inde
+==================================================
+
+[2025-05-11 18:54:05.466820] ERROR: Direct JSON parse failed: Expecting value: line 1 column 1 (char 0):
+```json
+{
+  "analysis": [
+    {
+      "index": 0,
+      "score": 78,
+      "rationale": "Title is relevant but potentially sensationalist. Views are high but like ratio is low."
+    },
+    {
+      "index": 1,
+      "score": 65,
+      "rationale": "Relevant title focused on diplomatic relations. Moderate views and like ratio."
+    },
+    {
+      "index": 2,
+      "score": 65,
+      "rationale": "Duplicate of index 1."
+    },
+    {
+      "index": 3,
+      "score": 75,
+      "rationale": "Relevant and alarming title. Views are good, but like ratio is low."
+    },
+    {
+      "index": 4,
+      "score": 68,
+      "rationale": "Relevant title with a focus on warnings. Decent views, but low like ratio."
+    },
+    {
+      "index": 5,
+      "score": 63,
+      "rationale": "Relevant title, but generic. Moderate views and low like ratio."
+    },
+    {
+      "index": 6,
+      "score": 63,
+      "rationale": "Duplicate of index 5."
+    },
+    {
+      "index": 7,
+      "score": 67,
+      "rationale": "Relevant title focusing on a specific event. Moderate views, low like ratio."
+    },
+    {
+      "index": 8,
+      "score": 69,
+      "rationale": "Relevant title regarding missile firings. Moderate views, low like ratio."
+    },
+    {
+      "index": 9,
+      "score": 66,
+      "rationale": "Relevant title with an 'act of war' claim. Moderate views, low like ratio."
+    },
+    {
+      "index": 10,
+      "score": 82,
+      "rationale": "Relevant title comparing strengths. Good like ratio and views."
+    },
+    {
+      "index": 11,
+      "score": 64,
+      "rationale": "Relevant title focused on potential conflict escalation. Moderate views, low like ratio."
+    },
+    {
+      "index": 12,
+      "score": 88,
+      "rationale": "Relevant title in Tamil with high like ratio. Good views and likely targeted audience appeal."
+    },
+    {
+      "index": 13,
+      "score": 61,
+      "rationale": "Relevant title attributing blame. Moderate views and low like ratio."
+    },
+    {
+      "inde
+==================================================
