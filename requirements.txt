@@ -1,0 +1,8 @@
+google-api-python-client
+google-generativeai
+isodate
+python-dotenv
+tabulate
+humanize
+tqdm
+speechrecognition
